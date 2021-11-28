@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/AndroidStudioProjects/Notepad-master/app/src/main/res/drawable/border.xml" value="0.203125" />
+        <entry key="..\:/Android/AndroidStudioProjects/Notepad-master/app/src/main/res/drawable/color_select.xml" value="0.11458333333333333" />
+        <entry key="..\:/Android/AndroidStudioProjects/Notepad-master/app/src/main/res/layout/a.xml" value="0.1598731884057971" />
+        <entry key="..\:/Android/AndroidStudioProjects/Notepad-master/app/src/main/res/layout/note_color.xml" value="0.19375" />
+        <entry key="..\:/Android/AndroidStudioProjects/Notepad-master/app/src/main/res/layout/note_editor.xml" value="0.1598731884057971" />
+        <entry key="..\:/Android/AndroidStudioProjects/Notepad-master/app/src/main/res/layout/note_search_list.xml" value="0.15364583333333334" />
+        <entry key="..\:/Android/AndroidStudioProjects/Notepad-master/app/src/main/res/layout/noteslist_item.xml" value="0.264" />
+        <entry key="..\:/Android/AndroidStudioProjects/Notepad-master/app/src/main/res/layout/setting_layout.xml" value="0.10260416666666666" />
+        <entry key="..\:/Android/AndroidStudioProjects/Notepad-master/app/src/main/res/layout/title_editor.xml" value="0.1598731884057971" />
+        <entry key="..\:/Android/AndroidStudioProjects/Notepad-master/app/src/main/res/menu/editor_options_menu.xml" value="0.20260416666666667" />
+        <entry key="..\:/Android/AndroidStudioProjects/Notepad-master/app/src/main/res/menu/list_context_menu.xml" value="0.20260416666666667" />
+        <entry key="..\:/Android/AndroidStudioProjects/Notepad-master/app/src/main/res/menu/list_options_menu.xml" value="0.20260416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
