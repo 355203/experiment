@@ -74,19 +74,19 @@
 
 ###### 1)在笔记的标题左侧添加了笔记图标
 
-![](E:\桌面\截图\UiBeautification\1.1.png)
+![](截图/UiBeautification/1.1.png)
 
 
 
 ###### 2）在原有的基础上，补充显示笔记的内容
 
-![](E:\桌面\截图\UiBeautification\1.2.png)
+![](截图/UiBeautification/1.2.png)
 
 
 
 ###### 3）为每个笔记添加边框
 
-![](E:\桌面\截图\UiBeautification\1.3.png)
+![](截图/UiBeautification/1.3.png)
 
 
 
