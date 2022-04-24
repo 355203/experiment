@@ -21,14 +21,14 @@
 
 9 进入“Thanks for installing Anaconda!”界面则意味着安装成功，点击“Finish”完成安装。
 
-![](../images/lab1/1.2.jpg)
+![](../images/lab1/1.2.JPG)
 
 二、Jupyter
 
 1.打开Anaconda
 
-![](../images/lab1/2.1.jpg)
+![](../images/lab1/2.1.JPG)
 
 2.通过Anaconda中自带的引导打开Jupyter，即可使用。
 
-![](../images/lab1/2.2.jpg)
+![](../images/lab1/2.2.JPG)
