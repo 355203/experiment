@@ -3,7 +3,7 @@
 一、Anaconda
 
 1.从官网下载安装
-![](..\\images\\lab1\\1.1.jpg)
+![](..//images//lab1//1.1.jpg)
 2.完成下载后，启动安装程序
 
 3.选择“Next”
