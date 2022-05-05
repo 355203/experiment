@@ -4,7 +4,7 @@
 
 1.打开Android Studio，选择Projects>New Project，然后选择Basic Activity.
 
-![](..\images\lab2\1.jpg)
+![](../images/lab2/1.jpg)
 
 2.调整fragment_first.xml的布局，调整后代码如下：
 
