@@ -69,12 +69,12 @@
 
 效果图如下：
 
-![](..\images\lab2\2.jpg)
+![](../images/lab2/2.jpg)
 
 3.设置代码自动补全。
 
 Android Studio中，依次点击File>New Projects Settings>Settings for New Projects…，查找Auto Import选项，在Java和Kotlin部分，勾选Add Unambiguous Imports on the fly。
-![](..\images\lab2\3.jpg)
+![](../images/lab2/3.jpg)
 
 4.TOAST按钮添加一个toast消息
 
@@ -151,7 +151,7 @@ private fun countMe(view: View) {
 
 效果如下：
 
-![](..\images\lab2\4.jpg)
+![](../images/lab2/4.jpg)
 
 （2）启用SafeArgs
 
@@ -258,6 +258,6 @@ view.findViewById<TextView>(R.id.textview_random).text = randomNumber.toString()
 
 最终实现效果：
 
-![](..\images\lab2\5.jpg)
+![](../images/lab2/5.jpg)
 
-![6](..\images\lab2\6.jpg)
+![6](../images/lab2/6.jpg)
